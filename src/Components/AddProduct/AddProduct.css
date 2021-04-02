@@ -1,0 +1,11 @@
+.inputContainer{
+    border: 2px solid rgb(235, 219, 219);
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px 5px gray;
+    padding:100px 50px;
+}
+.input{
+    width: 23rem;
+    height: 2.5rem;
+    border-radius: 3px;
+}
